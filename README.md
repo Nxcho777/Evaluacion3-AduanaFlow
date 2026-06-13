@@ -41,9 +41,10 @@ EvaluacionFormativa3-AduanaFlow/
 
 ## Integrantes
 
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-- [Nombre integrante 3]
+- Jonathan Illanes 
+- Jose Dolorier
+- Lucas Saa
+- Agustin Uribe
 
 ## Entregables considerados
 
