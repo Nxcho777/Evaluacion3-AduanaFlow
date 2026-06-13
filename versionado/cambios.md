@@ -42,3 +42,5 @@ Registrar las iteraciones realizadas durante la construcción del prototipo, doc
 - Incorporado plan de pruebas ISO25000
 - Agregados casos de prueba del sistema
 - Actualizada documentación final del proyecto
+
+## Se revisó la documentación final del repositorio antes de la entrega.
